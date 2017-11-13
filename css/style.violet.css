@@ -1775,7 +1775,7 @@ fieldset[disabled] .btn-template-primary.active {
 
 .bar.background-valeurs {
   background: url('../img/background.jpg') top no-repeat;
-  background-size:200px;
+background-size: cover;
 
 
 }
