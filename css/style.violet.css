@@ -158,6 +158,10 @@ div.section {
 ul.list-style-none {
   list-style: none;
 }
+
+a.mPS2id-highlight{ 
+    background: #986dbd; 
+}
 #text-page h1,
 #text-page h2,
 #text-page h3 {
