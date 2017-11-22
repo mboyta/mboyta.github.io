@@ -316,6 +316,7 @@ a.mPS2id-highlight{
   font-weight: bold;
   letter-spacing: 0.08em;
   border-top: solid 5px transparent;
+  color: #ffffff;
 }
 .navbar ul.nav > li > a:hover {
   border-top: solid 5px #986dbd;
