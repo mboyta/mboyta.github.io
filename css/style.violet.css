@@ -320,7 +320,7 @@ a.mPS2id-highlight{
 }
 .navbar ul.nav > li > a:hover {
   border-top: solid 5px #986dbd;
-  color:#ffffff
+  color:#ffffff;
 }
 .navbar ul.nav > li.active > a,
 .navbar ul.nav > li.open > a {
